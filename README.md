@@ -56,7 +56,7 @@ scope for this capability; J1939 does not require it.
 `can/frame` is not yet a member of `kotoba-lang/kotoba-core-contracts`'
 closed actor:host v0 catalog. Registering it there is a separate change to
 that repository and is out of scope here. See
-`test/kotoba/capability/can/frame_test.clj`.
+`test/kotoba/capability/can/frame_test.cljk`.
 
 The functional binding for `.kotoba` guests lives in `kotoba-lang/amu`'s
 `resources/kotoba/lang/capability-kits/can-frame-v1.edn` (capability id 29).
