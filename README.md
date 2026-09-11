@@ -64,5 +64,5 @@ This repository is the authority/discovery descriptor; the kit is the
 runtime surface.
 
 ```sh
-clojure -M:test
+kbb -M:test
 ```
